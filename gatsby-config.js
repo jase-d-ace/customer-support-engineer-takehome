@@ -74,5 +74,12 @@ module.exports = {
         pathToConfigModule: `src/utils/typography`,
       },
     },
+    {
+      resolve: `gatsby-plugin-parsely-analytics`,
+      options: {
+        apikey: 'www.jasonandrada.io',
+        enableInDevelopment: true
+      }
+    },
   ],
 }

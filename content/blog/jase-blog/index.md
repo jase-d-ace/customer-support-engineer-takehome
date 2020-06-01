@@ -1,9 +1,9 @@
 ---
-creator: Jase D. Ace
+author: Jase D. Ace
 date: "2020-06-01T15:04:10.000Z"
 description: Homage to kitty
 section: Metadata
-keywords:
+tags:
   - kitty
 thumbnail: kitty.jpg
 title: An exploration of cats

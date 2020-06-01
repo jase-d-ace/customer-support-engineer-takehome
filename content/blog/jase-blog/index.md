@@ -7,7 +7,7 @@ tags:
   - kitty
 thumbnail: kitty.jpg
 title: An exploration of cats
-type: BlogPosting
+type: NewsArticle
 ---
 
 And Socrates held up a cute kitty and said unto the masses, "Behold, a cat"
